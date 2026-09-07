@@ -1,13 +1,12 @@
 Aqui está um modelo de README.md simples, direto e bem formatado para você colocar na raiz do repositório:
-Markdown
 
-# 📊 Calculadora de Média
+# Calculadora de Média
 
 Projeto simples em Java desenvolvido para calcular a média de notas escolares, determinar a situação final do aluno e validar as regras de negócio por meio de testes unitários automatizados.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Cálculo da Média:** calcula a média aritmética a partir das notas informadas.
 - **Verificação de Status:** avalia a nota final e define a situação do aluno:
@@ -18,7 +17,7 @@ Projeto simples em Java desenvolvido para calcular a média de notas escolares, 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Java
 - **Testes Unitários:** JUnit 5
@@ -26,7 +25,7 @@ Projeto simples em Java desenvolvido para calcular a média de notas escolares, 
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 calculadora-media/
